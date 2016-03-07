@@ -1,3 +1,9 @@
+# Rocketrip Fork
+
+We needed this [patch](https://github.com/rocketrip/python3-saml/commit/e8550c1b3cc1fc91170e3a97b2cebcc27abc864c).
+
+Full README below.
+
 # OneLogin's SAML Python Toolkit
 
 [![Build Status](https://api.travis-ci.org/onelogin/python3-saml.png?branch=master)](http://travis-ci.org/onelogin/python3-saml)
