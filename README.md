@@ -2,7 +2,7 @@
 
 We needed this [patch](https://github.com/rocketrip/python3-saml/commit/e8550c1b3cc1fc91170e3a97b2cebcc27abc864c).
 
-UPDATE:  Patch was [merged](https://github.com/onelogin/python3-saml/pull/8).  We're now waiting for the version on PyPI to be updated to >1.0.0.
+UPDATE:  Patch was [merged](https://github.com/onelogin/python3-saml/pull/8).  We're now waiting for the version on [PyPI](https://pypi.python.org/pypi/python3-saml) to be updated to >1.0.0.
 
 Full README below.
 
